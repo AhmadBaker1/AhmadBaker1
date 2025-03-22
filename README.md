@@ -36,15 +36,19 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadbaker&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadbaker&theme=tokyonight" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbaker&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadbaker&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadbaker&theme=radical&hide_border=true" width="48%" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbaker&layout=compact&theme=radical&hide_border=true" width="50%" />
+
+</div>
+
 
 ---
 
