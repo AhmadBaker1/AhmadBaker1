@@ -40,12 +40,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadbaker&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadbaker&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadBaker1&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmadBaker1&theme=radical&hide_border=true" width="48%" />
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbaker&layout=compact&theme=radical&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadBaker1&layout=compact&theme=radical&hide_border=true" width="50%" />
 
 </div>
 
