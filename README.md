@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Baker</h1>
-<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast </h3>
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | Changing The Cyber World With AI/ML </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Visionary+Tech+Leader+%7C+Problem+Solver;Built+for+growth+and+innovation;Cybersecurity+%7C+Coding+%7C+Creativity" alt="Typing SVG" />
